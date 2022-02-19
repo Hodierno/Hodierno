@@ -1,5 +1,7 @@
 ### Hi guys, my name is Hodierno in the pixel world, but outside of it you can call me Guilherme Barros. I'm a university student  of Computer Engineering from Brazil, and i post here some codes that I make throughout my learning, I hope you like it! 👋
 
+## Languages Studied: C , C++ , Assembly
+
 
 <div align="center">
   <a href="https://github.com/Hodierno">
